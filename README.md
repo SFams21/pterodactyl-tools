@@ -1,4 +1,4 @@
-INSTALLER PTERO BY KURRXD
+TOOLS INSTALLER PTERODACTYL BY RIYAN SIPAYUNG
 
 ## UPDATE & UPGRADE
 ```sh
@@ -10,7 +10,7 @@ sudo apt update -y && sudo apt upgrade -y
 bash <(curl https://pterodactyl-installer.se)
 ```
 
-## TOOLS INSTALL WINGS AUTO IJO
+## TOOLS INSTALL WINGS AUTO GREEN
 ```sh
 bash <(curl https://raw.githubusercontent.com/SFams21/pterodactyl-tools/master/install-wings.sh)
 ```
